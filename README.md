@@ -3,7 +3,7 @@
 <p>Pesquisa desenvolvida para o exercício requerido na 1ª semana do curso de back-end na {reprograma}</p>
 
 <p align="center">
-    <img scr="https://github.com/luzialeticia/bibliotecas-frameworks-js/blob/master/img/js.png">
+    <img src="https://github.com/luzialeticia/bibliotecas-frameworks-js/blob/master/img/js.png">
 </p>
 
 <p align="justify">O JavaScritp é uma linguagem muito versátil e uma das mais populares atualmente<a href="https://computerworld.com.br/2020/04/12/quais-sao-as-20-linguagens-de-programacao-mais-populares-do-momento/">¹</a>. Porém, utilizar o JS puro (conhecido também como Javascript Vanilla), pode se tornar uma tarefa muito trabalhosa e custosa dependendo do problema a ser solucionado. Por isso, com o passar do tempo, diversas bibliotecas e frameworks foram desenvolvidos a fim de facilitar e agilizar o desenvolvimento com JS.</p>
