@@ -1,6 +1,7 @@
 # Bibliotecas e Frameworks para Javascript
 
 <p>Pesquisa desenvolvida para o exercício requerido na 1ª semana do curso de back-end na {reprograma}</p>
+<hr>
 
 <p align="center">
     <img src="https://github.com/luzialeticia/bibliotecas-frameworks-js/blob/master/img/js.png">
@@ -39,8 +40,10 @@
     <li>AngularJS</li>
 </ul>
 </p>
+<hr>
 
 <p align="justify">Bibliotecas e frameworks são muito úteis durante o processo de desenvolvimento de aplicações web, porém não dispensam o conhecimento básico em JavaScript puro. Recomenda-se que a pessoa desenvolvedora solidifique seus conhecimentos em JS para então iniciar os estudos dos frameworks e poder fazer melhor uso deles.</p>
+<hr>
 
 ### Fontes:
 [Terminal Root](https://terminalroot.com.br/2020/06/os-31-melhores-frameworks-e-bibliotecas-javascript.html)
