@@ -10,7 +10,7 @@
 
 ## Bibliotecas
 
-<p align="justify">Bibliotecas são "blocos de código" com alguma finalidade específica, prontos para serem utilizados dentro de códigos maiores. A finalidade é de agilizar e poupar tempo no processo de desenvolvimento de uma aplicação.</p>
+<p align="justify">Bibliotecas são "blocos de código" com alguma finalidade específica, prontos para serem utilizados dentro de códigos maiores. O objetivo é agilizar e poupar tempo no processo de desenvolvimento de uma aplicação.</p>
 
 >"A ideia de utilização de uma biblioteca é a de reutilizar códigos
 >existentes para não perder tempo escrevendo códigos que outro
@@ -30,9 +30,7 @@
     <img src="https://github.com/luzialeticia/bibliotecas-frameworks-js/blob/master/img/frameworks.png">
 </p>
 
-<p align="justify">A finalidade de um framework é semelhante a de uma biblioteca. Visando a reusabilidade do código e agilidade do trabalho. Pode-se dizer que um frameworks "é um conjunto de bibliotecas ou componentes que são usados para criar uma base onde sua aplicação será construída."<a href="https://tableless.github.io/iniciantes/manual/js/o-que-framework.html">³</a></p>
-
-<p align="justify">Bibliotecas e frameworks são muito úteis durante o processo de desenvolvimento de aplicações web, porém não dispensam o conhecimento básico em JavaScript puro. Recomenda-se que a pessoa desenvolvedora solidifique seus conhecimentos em JS para então iniciar os estudos dos frameworks e poder fazer melhor uso deles.</p>
+<p align="justify">A finalidade de um framework é semelhante a de uma biblioteca. Visando a reusabilidade do código e agilidade do trabalho. Pode-se dizer que um framework "é um conjunto de bibliotecas ou componentes que são usados para criar uma base onde sua aplicação será construída."<a href="https://tableless.github.io/iniciantes/manual/js/o-que-framework.html">³</a></p>
 
 <p>Exemplos de Frameworks para JS:
 <ul>
@@ -41,6 +39,8 @@
     <li>AngularJS</li>
 </ul>
 </p>
+
+<p align="justify">Bibliotecas e frameworks são muito úteis durante o processo de desenvolvimento de aplicações web, porém não dispensam o conhecimento básico em JavaScript puro. Recomenda-se que a pessoa desenvolvedora solidifique seus conhecimentos em JS para então iniciar os estudos dos frameworks e poder fazer melhor uso deles.</p>
 
 ### Fontes:
 [Terminal Root](https://terminalroot.com.br/2020/06/os-31-melhores-frameworks-e-bibliotecas-javascript.html)
