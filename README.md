@@ -2,7 +2,7 @@
 
 <p>Pesquisa desenvolvida para o exercício requerido na 1ª semana do curso de back-end na {reprograma}</p>
 
-<p>O JavaScritp é uma linguagem muito versátil e uma das mais utilizadas atualmente¹. Porém, utilizar o JS puro (conhecido também como Javascript Vanilla), pode se tornar uma tarefa muito trabalhosa e custosa dependendo do problema a ser solucionado. Por isso, com o passar do tempo, diversas bibliotecas e frameworks foram desenvolvidos a fim de facilitar e agilizar o desenvolvimento com JS.</p>
+<p>O JavaScritp é uma linguagem muito versátil e uma das mais populares atualmente¹. Porém, utilizar o JS puro (conhecido também como Javascript Vanilla), pode se tornar uma tarefa muito trabalhosa e custosa dependendo do problema a ser solucionado. Por isso, com o passar do tempo, diversas bibliotecas e frameworks foram desenvolvidos a fim de facilitar e agilizar o desenvolvimento com JS.</p>
 
 ## Bibliotecas
 
@@ -31,3 +31,18 @@
     <li>AngularJS</li>
 </ul>
 </p>
+
+### Notas
+1 - JS é uma das liguagens mais populares de acordo com pesquisa divulgada pela empresa de análise RedMonk: https://computerworld.com.br/2020/04/12/quais-sao-as-20-linguagens-de-programacao-mais-populares-do-momento/
+
+2 - Retirado de: https://blog.geekhunter.com.br/frameworks-javascript-e-bibliotecas-java/amp/#O_que_sao_Bibliotecas_JavaScript
+
+3 - Retirado de: https://tableless.github.io/iniciantes/manual/js/o-que-framework.html
+
+### Fontes:
+
+https://terminalroot.com.br/2020/06/os-31-melhores-frameworks-e-bibliotecas-javascript.html
+
+https://tableless.github.io/iniciantes/manual/js/o-que-framework.html
+
+https://tableless.github.io/iniciantes/manual/js/o-que-framework.html
