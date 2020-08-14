@@ -14,3 +14,4 @@
 
 <p>A finalidade de um framework é semelhante a de uma biblioteca. Visando a reusabilidade do código e agilidade do trabalho. Pode-se dizer que um frameworks "é um conjunto de bibliotecas ou componentes que são usados para criar uma base onde sua aplicação será construída."³</p>
 
+<p>Bibliotecas e frameworks são muito úteis durante o processo de desenvolvimento de aplicações web, porém não dispensam o conhecimento básico em JavaScript puro. Recomenda-se que a pessoa desenvolvedora solidifique seus conhecimentos em JS para então iniciar os estudos dos frameworks e poder fazer melhor uso deles.</p>
