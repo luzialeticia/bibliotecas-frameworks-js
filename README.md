@@ -40,7 +40,6 @@
     <li>AngularJS</li>
 </ul>
 </p>
-<hr>
 
 <p align="justify">Bibliotecas e frameworks são muito úteis durante o processo de desenvolvimento de aplicações web, porém não dispensam o conhecimento básico em JavaScript puro. Recomenda-se que a pessoa desenvolvedora solidifique seus conhecimentos em JS para então iniciar os estudos dos frameworks e poder fazer melhor uso deles.</p>
 <hr>
